@@ -8,7 +8,7 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 
 - 🔭  I’m currently working on a full-stack **Django web application**, as well as building my **personal developer portfolio** using **Django**, **HTML**, **CSS**, and **JavaScript**.
 - 🚀 Diving into Kubernetes and Docker to improve my DevOps and container orchestration skills.
-
+ 
 ## 🧠 Professional Skills
 
 ### 👨‍💻 Programming & Frameworks
@@ -38,6 +38,16 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+### 🤓 Fun Facts About Me
+
+- I speak Bengali, English, and a bit of German 🇧🇩🇬🇧🇩🇪  
+- I optimized a report system that saved 20+ hours per week 💼📊  
+- My debugging mantra: "Print it till you make it" 🔍  
+- I love street photography and urban exploration 📷🚶‍♂️  
+- I play competitive table tennis when I’m not debugging 🏓🧠  
+- Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺  
+- Elden Ring > Sleep. Any day. 🎮🌙
+  
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/farjana-ahmed95/)
-- Email: ahmed.farjana93@gmail.com
+- You can connect with me on [LinkedIn](https://www.linkedin.com/in/farjana-ahmed95/) or
+- Drop me an email anytime at Email: ahmed.farjana93@gmail.com
