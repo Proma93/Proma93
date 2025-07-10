@@ -51,7 +51,7 @@ Over the years, I've contributed to projects across finance and e-commerce domai
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
 
-### 🤓 Fun Facts About Me
+## 🤓 Fun Facts About Me
 
 - I speak Bengali, English, and a bit of German 🇧🇩🇬🇧🇩🇪  
 - I optimized a report system that saved 20+ hours per week 💼📊  
