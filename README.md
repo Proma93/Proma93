@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Farjana Ahmed </h1>
+<h1 align="center">Hi, I'm Farjana Ahmed 👋</h1>
 <h3 align="center">Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
 
 <div align="justify">
