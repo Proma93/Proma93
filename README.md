@@ -6,6 +6,9 @@ Most recently, I gained hands-on experience at **Deutsche Börse Group** in Fran
 
 Over the years, I've contributed to projects across finance and e-commerce domains—optimizing systems, eliminating bottlenecks, and building robust, scalable solutions. My focus is always on writing clean, maintainable code and delivering business value through smart automation. Whether it's enhancing legacy scripts or building new tools from scratch, I enjoy solving real-world problems and continuously learning.
 
+- 🔭  I’m currently working on a full-stack **Django web application**, as well as building my **personal developer portfolio** using **Django**, **HTML**, **CSS**, and **JavaScript**.
+- 🚀 Diving into Kubernetes and Docker to improve my DevOps and container orchestration skills.
+
 ## 🧠 Professional Skills
 
 ### 👨‍💻 Programming & Frameworks
@@ -35,15 +38,6 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/farjana-ahmed95/)
+- Email: ahmed.farjana93@gmail.com
