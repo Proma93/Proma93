@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Farjana Ahmed</h1>
-<h3 align="center">Software Developer | Tech Enthusiast | Lifelong Learner</h3>
-
-## Hi, I'm Farjana👋
+<h1 align="center">Hi, I'm Farjana Ahmed 👋</h1>
+<h3 align="center">Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
 
 I'm a passionate and solutions-driven **Software Engineer** with a Master’s in **Automotive Software Engineering** from **Chemnitz University of Technology, Germany**, and a Bachelor’s in **Computer Science and Engineering** from **AUST, Bangladesh**.  
 
