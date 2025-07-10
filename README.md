@@ -1,14 +1,21 @@
 <h1 align="center">Hi, I'm Farjana Ahmed 👋</h1>
 <h3 align="center">Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
 
-I'm a passionate and solutions-driven **Software Engineer** with a Master’s in **Automotive Software Engineering** from **Chemnitz University of Technology, Germany**, and a Bachelor’s in **Computer Science and Engineering** from **AUST, Bangladesh**.  
+<div align="justify">
 
-Most recently, I gained hands-on experience at **Deutsche Börse Group** in Frankfurt, Germany,, where I supported data-driven process improvements through automation and the development of centralized databases and improving reporting workflows. Working with tools like **Python**, **PostgreSQL**, and **Git** in **Agile/Scrum** environments and SharePoint, I contributed to streamlining report generation and enhancing data integrity across multiple business units.
+I'm a passionate and solutions-driven <strong>Software Engineer</strong> with a Master’s in <strong>Automotive Software Engineering</strong> from <strong>Chemnitz University of Technology, Germany</strong>, and a Bachelor’s in <strong>Computer Science and Engineering</strong> from <strong>AUST, Bangladesh</strong>.  
+
+Most recently, I gained hands-on experience at <strong>Deutsche Börse Group</strong> in Frankfurt, Germany, where I supported data-driven process improvements through automation and the development of centralized databases and improving reporting workflows. Working with tools like <strong>Python</strong>, <strong>PostgreSQL</strong>, and <strong>Git</strong> in <strong>Agile/Scrum</strong> environments and SharePoint, I contributed to streamlining report generation and enhancing data integrity across multiple business units.
 
 Over the years, I've contributed to projects across finance and e-commerce domains—optimizing systems, eliminating bottlenecks, and building robust, scalable solutions. My focus is always on writing clean, maintainable code and delivering business value through smart automation. Whether it's enhancing legacy scripts or building new tools from scratch, I enjoy solving real-world problems and continuously learning.
 
-- 🔭  I’m currently working on a full-stack **Django web application**, as well as building my **personal developer portfolio** using **Django**, **HTML**, **CSS**, and **JavaScript**.
-- 🚀 Diving into Kubernetes and Docker to improve my DevOps and container orchestration skills.
+<ul>
+  <li>🔭 I’m currently working on a full-stack <strong>Django web application</strong>, as well as building my <strong>personal developer portfolio</strong> using <strong>Django</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.</li>
+  <li>🚀 Diving into Kubernetes and Docker to improve my DevOps and container orchestration skills.</li>
+</ul>
+
+</div>
+
  
 ## 🧠 Professional Skills
 
