@@ -60,7 +60,7 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 - I play competitive table tennis when I’m not debugging 🏓🧠  
 - Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺  
 - Elden Ring > Sleep. Any day. 🎮🌙
-  
+
 ## 📫 How to reach me
 - You can connect with me on [LinkedIn](https://www.linkedin.com/in/farjana-ahmed95/) or
 - Drop me an email anytime at Email: ahmed.farjana93@gmail.com
