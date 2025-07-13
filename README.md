@@ -53,13 +53,11 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 
 ## 🤓 Fun Facts About Me
 
-- I speak Bengali, English, and a bit of German 🇧🇩🇬🇧🇩🇪  
-- I optimized a report system that saved 20+ hours per week 💼📊  
+- I speak Bengali, English, and a bit of German
 - My debugging mantra: "Print it till you make it" 🔍  
 - I love street photography and urban exploration 📷🚶‍♂️  
 - I play competitive table tennis when I’m not debugging 🏓🧠  
-- Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺  
-- Elden Ring > Sleep. Any day. 🎮🌙
+- Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺
 
 ## 📫 How to reach me
 - You can connect with me on [LinkedIn](https://www.linkedin.com/in/farjana-ahmed95/) or
