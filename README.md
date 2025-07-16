@@ -13,8 +13,15 @@ Over the years, I've contributed to projects across finance and e-commerce domai
   <li>🔭 I’m currently working on a full-stack <strong>Django web application</strong>, as well as building my <strong>personal developer portfolio</strong> using <strong>Django</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.</li>
   <li>🚀 Diving into Kubernetes and Docker to improve my DevOps and container orchestration skills.</li>
 </ul>
-
 </div>
+
+## 🧩 Current Project: Django REST Framework To-Do API
+
+I'm currently building a **To-Do application** using the **Django REST Framework (DRF)** to deepen my understanding of API development, serialization, and CRUD operations in a RESTful architecture.
+
+> 🚧 This project is a work-in-progress focused on learning and experimenting with DRF best practices.
+
+🔗 [View Repository »](https://github.com/Proma93/drf_learning)
 
  ## 🧠 Professional Skills
 
