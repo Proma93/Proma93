@@ -76,6 +76,8 @@ I'm currently building a **To-Do application** using the **Django REST Framework
 
 <img src="contributions.svg" width="100%">
 
+---
+
 ### 🤓 Fun Facts About Me
 
 - I speak Bengali, English, and a bit of German
