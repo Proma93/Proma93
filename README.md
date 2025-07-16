@@ -10,8 +10,9 @@ Most recently, I gained hands-on experience at <strong>Deutsche Börse Group</st
 Over the years, I've contributed to projects across finance and e-commerce domains—optimizing systems, eliminating bottlenecks, and building robust, scalable solutions. My focus is always on writing clean, maintainable code and delivering business value through smart automation. Whether it's enhancing legacy scripts or building new tools from scratch, I enjoy solving real-world problems and continuously learning.
 
 <ul>
-  <li>🔭 I’m currently working on a full-stack <strong>Django web application</strong>, as well as building my <strong>personal developer portfolio</strong> using <strong>Django</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.</li>
-  <li>🚀 Diving into Kubernetes and Docker to improve my DevOps and container orchestration skills.</li>
+  <li>🔭 I’m currently building: a full-stack Django portfolio & a DRF-powered To-Do API.</li>
+  <li>🌱 Exploring: Docker 🐳 | Kubernetes ☸️ | GitHub Actions 🔁</li>
+  <li>🧠 Improving: Django REST Framework and system design skills</li>
 </ul>
 </div>
 
@@ -66,10 +67,8 @@ I'm currently building a **To-Do application** using the **Django REST Framework
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Proma93&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proma93&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Proma93's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Proma93&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proma93&layout=compact&theme=radical)
 
 ---
 
@@ -84,5 +83,6 @@ I'm currently building a **To-Do application** using the **Django REST Framework
 ---
 
 ### 📫 How to reach me
-- You can connect with me on [LinkedIn](https://www.linkedin.com/in/farjana-ahmed95/) or
-- Drop me an email anytime at Email: ahmed.farjana93@gmail.com
+- You can connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-ahmed95/) or
+- Drop me an email anytime at [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.farjana93@gmail.com)
+
