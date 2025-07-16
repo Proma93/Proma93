@@ -15,7 +15,9 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 </ul>
 </div>
 
-## 🧩 Current Project: Django REST Framework To-Do API
+---
+
+### 🧩 Current Project: Django REST Framework To-Do API
 
 I'm currently building a **To-Do application** using the **Django REST Framework (DRF)** to deepen my understanding of API development, serialization, and CRUD operations in a RESTful architecture.
 
@@ -23,9 +25,11 @@ I'm currently building a **To-Do application** using the **Django REST Framework
 
 🔗 [View Repository »](https://github.com/Proma93/drf_learning)
 
- ## 🧠 Professional Skills
+---
 
-### 🖥️ Backend & Frameworks
+ ### 🧠 Professional Skills
+
+#### 🖥️ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -33,7 +37,7 @@ I'm currently building a **To-Do application** using the **Django REST Framework
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
-### 🌐 Frontend & Web
+#### 🌐 Frontend & Web
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -41,14 +45,14 @@ I'm currently building a **To-Do application** using the **Django REST Framework
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+#### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🛠 Tools & Platforms
+#### 🛠 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
@@ -58,7 +62,9 @@ I'm currently building a **To-Do application** using the **Django REST Framework
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
 
-## 🤓 Fun Facts About Me
+---
+
+### 🤓 Fun Facts About Me
 
 - I speak Bengali, English, and a bit of German
 - My debugging mantra: "Print it till you make it" 🔍  
@@ -66,6 +72,17 @@ I'm currently building a **To-Do application** using the **Django REST Framework
 - I play competitive table tennis when I’m not debugging 🏓🧠  
 - Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺
 
-## 📫 How to reach me
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Proma93&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proma93&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📫 How to reach me
 - You can connect with me on [LinkedIn](https://www.linkedin.com/in/farjana-ahmed95/) or
 - Drop me an email anytime at Email: ahmed.farjana93@gmail.com
