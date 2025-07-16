@@ -64,6 +64,15 @@ I'm currently building a **To-Do application** using the **Django REST Framework
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Proma93&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proma93&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
 ### 🤓 Fun Facts About Me
 
 - I speak Bengali, English, and a bit of German
@@ -71,15 +80,6 @@ I'm currently building a **To-Do application** using the **Django REST Framework
 - I love street photography and urban exploration 📷🚶‍♂️  
 - I play competitive table tennis when I’m not debugging 🏓🧠  
 - Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Proma93&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proma93&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
