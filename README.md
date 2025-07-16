@@ -84,5 +84,5 @@ I'm currently building a **To-Do application** using the **Django REST Framework
 
 ### 📫 How to reach me
 - You can connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-ahmed95/) or
-- Drop me an email anytime at [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.farjana93@gmail.com)
+- Drop me an email anytime at [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.farjana93@gmail.com)
 
