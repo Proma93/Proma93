@@ -22,7 +22,7 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 
 ### 🧩 Current Project: Django REST Framework To-Do API
 
-I'm currently building a **To-Do application** using the **Django REST Framework (DRF)** to deepen my understanding of API development, serialization, and CRUD operations in a RESTful architecture.
+I'm currently building a **Task tracking application** using the **Django REST Framework (DRF)** to deepen my understanding of API development, serialization, and CRUD operations in a RESTful architecture.
 
 > 🚧 This project is a work-in-progress focused on learning and experimenting with DRF best practices.
 
