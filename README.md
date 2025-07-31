@@ -20,13 +20,23 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 
 ---
 
-### 🧩 Current Project: Django REST Framework Task Track API
+### 🧩 Current Projects 
+
+#### Django REST Framework Task Track API
 
 I'm currently building a **Task tracking application** using the **Django REST Framework (DRF)** to deepen my understanding of API development, serialization, and CRUD operations in a RESTful architecture.
 
 > 🚧 This project is a work-in-progress focused on learning and experimenting with DRF best practices.
 
 🔗 [View Repository »](https://github.com/Proma93/drf_learning)
+
+#### Real-Time Chat Application with Django & React
+
+A full-stack real-time chat application leveraging Django Channels for backend WebSocket support and a React frontend built with Vite, enabling seamless live messaging through Redis-powered message handling and efficient ASGI server configuration.
+
+> 🚧 Actively developing to master real-time features and full-stack integration.
+
+🔗 [View Repository »](https://github.com/Proma93/chat_project)
 
 ---
 
