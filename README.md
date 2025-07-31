@@ -32,7 +32,7 @@ I'm currently building a **Task tracking application** using the **Django REST F
 
 #### Real-Time Chat Application with Django & React
 
-A full-stack real-time chat application leveraging Django Channels for backend WebSocket support and a React frontend built with Vite, enabling seamless live messaging through Redis-powered message handling and efficient ASGI server configuration.
+A full-stack real-time chat application currently in development, leveraging Django Channels for backend WebSocket support and a React frontend built with Vite. It enables seamless live messaging through Redis-powered message handling and efficient ASGI server configuration.
 
 > 🚧 Actively developing to master real-time features and full-stack integration.
 
