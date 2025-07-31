@@ -22,7 +22,7 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 
 ### 🧩 Current Projects 
 
-#### Django REST Framework Task Track API
+#### Task Track API using Django REST Framework 
 
 I'm currently building a **Task tracking application** using the **Django REST Framework (DRF)** to deepen my understanding of API development, serialization, and CRUD operations in a RESTful architecture.
 
