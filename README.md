@@ -13,17 +13,17 @@ Most recently, I gained hands-on experience at <strong>Deutsche Börse Group</st
 
 Over the years, I've contributed to projects across finance and e-commerce domains—optimizing systems, eliminating bottlenecks, and building robust, scalable solutions. My focus is always on writing clean, maintainable code and delivering business value through smart automation. Whether it's enhancing legacy scripts or building new tools from scratch, I enjoy solving real-world problems and continuously learning.
 
-<table>
+<table style="margin: auto;"> <!-- or remove margin if you want left align -->
   <tr>
-    <td>
+    <td style="vertical-align: top; padding-right: 20px;">
       <ul>
         <li>🔭 I’m currently building: a full-stack Django portfolio & a DRF-powered To-Do API.</li>
         <li>🌱 Exploring: Docker 🐳 | Kubernetes ☸️ | GitHub Actions 🔁</li>
         <li>🧠 Improving: Django REST Framework and system design skills</li> 
       </ul>
     </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300" alt="Demo GIF" />
+    <td style="vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="300" alt="Demo GIF" />
     </td>
   </tr>
 </table>
@@ -32,7 +32,17 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 
 ---
 
-### 🧩 Current Projects 
+### 🧩 Current Projects
+
+<div>
+
+<table>
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300" alt="Project Preview" />
+    </td>
+    <td style="vertical-align: top;">
+ 
 
 #### Task Track API using Django REST Framework 
 
@@ -49,6 +59,13 @@ A full-stack real-time chat application currently in development, leveraging Dja
 > 🚧 Actively developing to master real-time features and full-stack integration.
 
 🔗 [View Repository »](https://github.com/Proma93/chat_project)
+  </tr>
+</table>
+
+</div>
+
+
+
 
 ---
 
@@ -82,13 +99,35 @@ A full-stack real-time chat application currently in development, leveraging Dja
 
 ---
 
+<div>
+
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      
 ### 🤓 Fun Facts About Me
 
-- I speak Bengali, English, and a bit of German
-- My debugging mantra: "Print it till you make it" 🔍  
-- I love street photography and urban exploration 📷🚶‍♂️  
-- I play competitive table tennis when I’m not debugging 🏓🧠  
-- Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺
+</table>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>I speak Bengali, English, and a bit of German</li>
+        <li>My debugging mantra: "Print it till you make it" 🔍  </li>
+        <li>I love street photography and urban exploration 📷🚶‍♂️  </li> 
+        <li>I play competitive table tennis when I’m not debugging 🏓🧠 </li> 
+        <li>Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺</li> 
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="300" alt="Demo GIF" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
