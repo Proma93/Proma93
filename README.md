@@ -98,13 +98,7 @@ A full-stack real-time chat application currently in development, leveraging Dja
 ### 🤓 Fun Facts About Me
 
 <div>
-
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-
-</table>
-
+  
 <table>
   <tr>
     <td>
