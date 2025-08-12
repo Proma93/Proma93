@@ -16,8 +16,9 @@ Over the years, I've contributed to projects across finance and e-commerce domai
 <ul>
   <li>🔭 I’m currently building: a full-stack Django portfolio & a DRF-powered To-Do API.</li>
   <li>🌱 Exploring: Docker 🐳 | Kubernetes ☸️ | GitHub Actions 🔁</li>
-  <li>🧠 Improving: Django REST Framework and system design skills</li>
+  <li>🧠 Improving: Django REST Framework and system design skills</li> 
 </ul>
+  [Alt text](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
 </div>
 
 
