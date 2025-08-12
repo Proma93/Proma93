@@ -5,6 +5,8 @@
 
 <div align="justify">
 
+![Me](Banner.png)
+
 I'm a passionate and solutions-driven <strong>Software Engineer</strong> with a Master’s in <strong>Automotive Software Engineering</strong> from <strong>Chemnitz University of Technology, Germany</strong>, and a Bachelor’s in <strong>Computer Science and Engineering</strong> from <strong>AUST, Bangladesh</strong>.  
 
 Most recently, I gained hands-on experience at <strong>Deutsche Börse Group</strong> in Frankfurt, Germany, where I supported data-driven process improvements through automation and the development of centralized databases and improving reporting workflows. Working with tools like <strong>Python</strong>, <strong>PostgreSQL</strong>, and <strong>Git</strong> in <strong>Agile/Scrum</strong> environments and SharePoint, I contributed to streamlining report generation and enhancing data integrity across multiple business units.
