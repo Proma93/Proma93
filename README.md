@@ -13,12 +13,20 @@ Most recently, I gained hands-on experience at <strong>Deutsche Börse Group</st
 
 Over the years, I've contributed to projects across finance and e-commerce domains—optimizing systems, eliminating bottlenecks, and building robust, scalable solutions. My focus is always on writing clean, maintainable code and delivering business value through smart automation. Whether it's enhancing legacy scripts or building new tools from scratch, I enjoy solving real-world problems and continuously learning.
 
-<ul>
-  <li>🔭 I’m currently building: a full-stack Django portfolio & a DRF-powered To-Do API.</li>
-  <li>🌱 Exploring: Docker 🐳 | Kubernetes ☸️ | GitHub Actions 🔁</li>
-  <li>🧠 Improving: Django REST Framework and system design skills</li> 
-</ul>
- ![Demo GIF](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently building: a full-stack Django portfolio & a DRF-powered To-Do API.</li>
+        <li>🌱 Exploring: Docker 🐳 | Kubernetes ☸️ | GitHub Actions 🔁</li>
+        <li>🧠 Improving: Django REST Framework and system design skills</li> 
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300" alt="Demo GIF" />
+    </td>
+  </tr>
+</table>
 </div>
 
 
