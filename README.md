@@ -10,9 +10,9 @@ Most recently, I gained hands-on experience at <strong>Deutsche Börse Group</st
 Over the years, I've contributed to projects across finance and e-commerce domains—optimizing systems, eliminating bottlenecks, and building robust, scalable solutions. My focus is always on writing clean, maintainable code and delivering business value through smart automation. Whether it's enhancing legacy scripts or building new tools from scratch, I enjoy solving real-world problems and continuously learning.
 
   <ul>
-      <li>🔭 I’m currently building: a full-stack Django portfolio & a DRF-powered To-Do API.</li>
-      <li>🌱 Exploring: Docker 🐳 | Kubernetes ☸️ | GitHub Actions 🔁</li>
-      <li>🧠 Improving: Django REST Framework and system design skills</li> 
+      <li>I’m currently building: a full-stack Django portfolio & a DRF-powered To-Do API.</li>
+      <li>Exploring: Docker 🐳 | Kubernetes ☸️ | GitHub Actions 🔁</li>
+      <li>Improving: Django REST Framework and system design skills</li> 
   </ul>
 </div>
 
