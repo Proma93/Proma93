@@ -95,10 +95,10 @@ A full-stack real-time chat application currently in development, leveraging Dja
     <td>
       <ul>
         <li>I speak Bengali, English, and a bit of German</li>
-        <li>My debugging mantra: "Print it till you make it" 🔍  </li>
-        <li>I love street photography and urban exploration 📷🚶‍♂️  </li> 
-        <li>I play competitive table tennis when I’m not debugging 🏓🧠 </li> 
-        <li>Dancing is my stress buster—afro and freestyle are my go-to moves 💃🕺</li> 
+        <li>My debugging mantra: "Print it till you make it"</li>
+        <li>I love street photography and urban exploration</li> 
+        <li>I play competitive table tennis when I’m not debugging</li> 
+        <li>Dancing is my stress buster—afro and freestyle are my go-to moves</li> 
       </ul>
     </td>
     <td>
