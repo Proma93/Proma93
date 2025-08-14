@@ -75,14 +75,40 @@ A full-stack real-time chat application currently in development, leveraging Dja
 | **Interests**             | Backend Development, API Design, Cloud Services, IT Project Management                                                                                                                                                                                                               |
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Overview
+<div>
 
-![Proma93's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Proma93&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proma93&layout=compact&theme=radical)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Proma93&theme=radical)
+
+</div>
 
 ---
 
+## 🚀 Performance & Languages
+<div>
+
+<a href="https://github.com/Proma93">
+  <img src="https://github-readme-stats.vercel.app/api?username=Proma93&show_icons=true&theme=radical&hide_border=true" height="180" />
+</a>
+<a href="https://github.com/Proma93">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Proma93&theme=radical&hide_border=true" height="180" />
+</a>
+
+</div>
+
+---
+
+## ⏱ Activity Insights
+<div>
+
+<a href="https://github.com/Proma93">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Proma93&theme=radical&hide_border=true" height="180" />
+</a>
+<a href="https://github.com/Proma93">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Proma93&theme=radical&utcOffset=6&hide_border=true" height="180" />
+</a>
 <img src="contributions.svg" width="100%">
+</div>
 
 ---
 
