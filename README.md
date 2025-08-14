@@ -143,7 +143,40 @@ A full-stack real-time chat application currently in development, leveraging Dja
 
 ---
 
-### 📫 How To Reach Me
+[![Typing Contact](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=800&lines=📫Connect+with+me+on+LinkedIn;📫Email+me+anytime)](https://git.io/typing-svg)
+- You can connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-ahmed95/)  
+- Drop me an email anytime at [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.farjana93@gmail.com)
 
-- You can connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-ahmed95/) or
-- Drop me an email anytime at [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.farjana93@gmail.com) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
