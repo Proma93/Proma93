@@ -76,7 +76,7 @@ A full-stack real-time chat application currently in development, leveraging Dja
 | **Interests**             | Backend Development, API Design, Cloud Services, IT Project Management                                                                                                                                                                                                               |
 ---
 
-## 📊 GitHub Overview
+### 📊 GitHub Overview
 <div>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Proma93&theme=radical)
@@ -87,7 +87,7 @@ A full-stack real-time chat application currently in development, leveraging Dja
 
 ---
 
-## 🚀 Performance & Languages
+### 🚀 Performance & Languages
 <div>
 
 <a href="https://github.com/Proma93">
@@ -102,7 +102,7 @@ A full-stack real-time chat application currently in development, leveraging Dja
 
 ---
 
-## ⏱ Activity Insights
+### ⏱ Activity Insights
 <div>
 
 <a href="https://github.com/Proma93">
@@ -143,7 +143,7 @@ A full-stack real-time chat application currently in development, leveraging Dja
 
 ---
 
-[![Typing Contact](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=800&lines=📫Connect+with+me+on+LinkedIn;📫Email+me+anytime)](https://git.io/typing-svg)
+### [![Typing Contact](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=800&lines=📫Connect+with+me+on+LinkedIn;📫Email+me+anytime)](https://git.io/typing-svg)
 - You can connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-ahmed95/)  
 - Drop me an email anytime at [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.farjana93@gmail.com)
 
