@@ -143,7 +143,7 @@ A full-stack real-time chat application currently in development, leveraging Dja
 
 ---
 
-### 📫 How to reach me
+### 📫 How To Reach Me
 
 - You can connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-ahmed95/) or
 - Drop me an email anytime at [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.farjana93@gmail.com) 
