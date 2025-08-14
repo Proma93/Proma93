@@ -1,8 +1,9 @@
 
 <div align="justify">
 
-![Me](Banner.png)
 
+![Me](Banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=1000&lines=Software+Engineer+%7C+Backend+Developer+%7C+Python%2FDjango+%26+Cloud+Solutions;Passionate+About+Finance+%26+FinTech+Innovation)](https://git.io/typing-svg)
 I'm a passionate and solutions-driven <strong>Software Engineer</strong> with a Master’s in <strong>Automotive Software Engineering</strong> from <strong>Chemnitz University of Technology, Germany</strong>, and a Bachelor’s in <strong>Computer Science and Engineering</strong> from <strong>AUST, Bangladesh</strong>.  
 
 Most recently, I gained hands-on experience at <strong>Deutsche Börse Group</strong> in Frankfurt, Germany, where I supported data-driven process improvements through automation and the development of centralized databases and improving reporting workflows. Working with tools like <strong>Python</strong>, <strong>PostgreSQL</strong>, and <strong>Git</strong> in <strong>Agile/Scrum</strong> environments and SharePoint, I contributed to streamlining report generation and enhancing data integrity across multiple business units.
@@ -80,6 +81,8 @@ A full-stack real-time chat application currently in development, leveraging Dja
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Proma93&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Proma93&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
@@ -90,6 +93,7 @@ A full-stack real-time chat application currently in development, leveraging Dja
 <a href="https://github.com/Proma93">
   <img src="https://github-readme-stats.vercel.app/api?username=Proma93&show_icons=true&theme=radical&hide_border=true" height="180" />
 </a>
+
 <a href="https://github.com/Proma93">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Proma93&theme=radical&hide_border=true" height="180" />
 </a>
@@ -104,6 +108,7 @@ A full-stack real-time chat application currently in development, leveraging Dja
 <a href="https://github.com/Proma93">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Proma93&theme=radical&hide_border=true" height="180" />
 </a>
+
 <a href="https://github.com/Proma93">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Proma93&theme=radical&utcOffset=6&hide_border=true" height="180" />
 </a>
