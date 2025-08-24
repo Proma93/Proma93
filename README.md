@@ -32,7 +32,7 @@ Over the years, I've contributed to projects across finance and e-commerce domai
     <td style="vertical-align: top;">
  
 
-#### Task Track API using Django REST Framework 
+### Task Track API using Django REST Framework 
 
 I'm currently building a **Task tracking application** using the **Django REST Framework (DRF)** to deepen my understanding of API development, serialization, and CRUD operations in a RESTful architecture.
 
@@ -40,7 +40,7 @@ I'm currently building a **Task tracking application** using the **Django REST F
 
 🔗 [View Repository »](https://github.com/Proma93/drf_learning)
 
-#### Real-Time Chat Application with Django & React
+### Real-Time Chat Application with Django & React
 
 A full-stack real-time chat application currently in development, leveraging Django Channels for backend WebSocket support and a React frontend built with Vite. It enables seamless live messaging through Redis-powered message handling and efficient ASGI server configuration.
 
