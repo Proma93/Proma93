@@ -1,6 +1,4 @@
-
 <div align="justify">
-
 
 ![Me](Banner.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=1000&lines=Software+Engineer+%7C+Backend+Developer+%7C+Python%2FDjango+%26+Cloud+Solutions;Passionate+About+Finance+%26+FinTech+Innovation)](https://git.io/typing-svg)
