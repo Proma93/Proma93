@@ -70,7 +70,6 @@ A full-stack real-time chat application currently in development, leveraging Dja
 
 ---
 
-
 ### 📊 GitHub Overview
 <div>
 
